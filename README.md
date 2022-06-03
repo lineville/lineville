@@ -6,3 +6,5 @@
 - 📫 How to reach me: liamgneville@gmail.com
 - 💻 Portfolio: [https://liamneville.me](https://liamneville.me)
 - 🃏 Checkout a BlackJack game I made 👉 [www.breakeven.dev](www.breakeven.dev)
+
+[![Liam Neville's GitHub stats](https://github-readme-stats.vercel.app/api?username=lineville)](https://github.com/lineville/github-readme-stats)
