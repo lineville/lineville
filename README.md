@@ -7,4 +7,4 @@
 - 💻 Portfolio: [https://liamneville.me](https://liamneville.me)
 - 🃏 Checkout a BlackJack game I made 👉 [www.breakeven.dev](www.breakeven.dev)
 
-[![Liam Neville's GitHub stats](https://github-readme-stats.vercel.app/api?username=lineville)](https://github.com/lineville/github-readme-stats)
+[![Liam Neville's GitHub stats](https://github-readme-stats.vercel.app/api?username=lineville&theme=cobalt)](https://github.com/lineville/github-readme-stats)
