@@ -5,4 +5,4 @@
 - 🔭 I’m currently learning Rust 🦀, TypeScript 💙 and Ruby 💎
 - 🎾 Ask me about playing tennis in the Bay Area: [USTA](https://www.usta.com/en/home/myaccount/player.html#/tab1=schedules)
 - 🃏 Play a BlackJack game 👉 [www.breakeven.dev](https://www.breakeven.dev/)
-- 📫 How to reach me: [liamgneville@gmail.com](mailto:liamgneville@gmail.com)
+- 📫 How to reach me [liamgneville@gmail.com](mailto:liamgneville@gmail.com)
