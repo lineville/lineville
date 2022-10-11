@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/25349044/194664442-0628def5-a09a-4f0e-91e0-d1d77957dc19.jpg" width="10%" height="10%" />
+# :wave: Take a look around 🧐
 
 - :octocat: I currently work on the [Field Engineering](https://github.com/orgs/github/teams/field-engineering) team at [GitHub](http://github.com/github) developing tools to accelerate the adoption of [GitHub Actions](https://github.com/features/actions)
 - ✨ Checkout my website 👉 [lineville.github.io](https://lineville.github.io)
