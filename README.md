@@ -7,4 +7,4 @@
 - 🃏 Play an addictive BlackJack game I built 👉 [www.breakeven.dev](https://www.breakeven.dev/)
 - 📫 How to reach me [liamgneville@gmail.com](mailto:liamgneville@gmail.com)
 
-### Checkout some of the projects I've worked on 👇
+### ✨ Checkout some of the projects I've been working on lately 👀 👇
