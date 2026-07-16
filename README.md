@@ -1,6 +1,6 @@
 # Hey everyone!
 
-* :octocat: I'm a Software Engineer at [GitHub](http://github.com/github) working to building experiences that empower developers to get the most out of GitHub
+* 🚀 I'm a Software Engineer at [Sift](http://siftstack.com) working to building a product that's shaping the way rockets, robotics and autonomous vehicles are developed
 * ✨ Checkout my personal website 👉 [https://lineville.github.io](https://lineville.github.io)
 * 🦝 Creator of [Splitski](https://splitski.dev): Share expenses with friends for free
 * 🔭 I primarily write [Go](https://go.dev/), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) 🦀, [TypeScript](https://www.typescriptlang.org/) 💙, and [React](https://react.dev/) ⚛️
